@@ -1,0 +1,16 @@
+{
+  "name": "day_5_cw",
+  "version": "1.0.0",
+  "description": "That's my Geekster Day5 Class Work Assigement",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meer Arhan Rizvi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
